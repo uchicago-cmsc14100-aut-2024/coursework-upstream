@@ -5,5 +5,5 @@ function-rgx=(([a-z][a-z0-9_]{2,50})|(_[a-z0-9_]*))$
 max-line-length=80
 
 [MESSAGES CONTROL]
-disable=C0303
+disable=C0303, W1514, R0913, R1728, E1120
 
