@@ -589,7 +589,7 @@ def check_2D_general(check_element_type_fn,
     
     type_error_msg = (f"The actual value does not have the correct type.\n"
                       f"The expected type is List[List[{element_type_str}]]")
-    err_msg = __check_2D_type(check_element_type_fn, actual, type_error_msg)
+    err_msg = check_2D_type(check_element_type_fn, actual, type_error_msg)
     if err_msg is not None:
         return "\n\n" + err_msg
     
@@ -597,7 +597,7 @@ def check_2D_general(check_element_type_fn,
     if msg is not None:
         return err_msg
 
-    err_msg = __check_2D_vals(check_element_equality_fn, actual, expected)
+    err_msg = check_2D_vals(check_element_equality_fn, actual, expected)
     if err_msg is not None:
         return "\n\n" + err_msg
 
