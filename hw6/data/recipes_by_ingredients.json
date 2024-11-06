@@ -1,0 +1,24 @@
+{
+    "recipes_1_crackers": [
+        "Praline Grahams"
+    ],
+    "recipes_3_vanilla": [
+        "Praline Grahams"
+    ],
+    "recipes_3_sugar": [
+        "Praline Grahams",
+        "Pumpkin Bread"
+    ],
+    "recipes_3_pumpkin_vanilla": [],
+    "recipes_3_none": [
+        "Praline Grahams",
+        "Vegetable Pizza",
+        "Pumpkin Bread"
+    ],
+    "recipes_10_eggs": [
+        "Egg Custard Pie",
+        "Corn Pudding",
+        "K'S Brownies"
+    ],
+    "recipes_10_eggs_margarine_kidney beans": []
+}

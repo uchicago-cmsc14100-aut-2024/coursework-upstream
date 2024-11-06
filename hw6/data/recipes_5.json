@@ -1,0 +1,82 @@
+[
+    {
+        "title":"Swiss Chicken",
+        "ingredients":[
+            "swiss cheese",
+            "chicken breasts",
+            "butter",
+            "cream of chicken soup"
+        ],
+        "instructions":[
+            "Place ingredients in order listed in a casserole dish and bake 50 minutes at 350\u00b0."
+        ]
+    },
+    {
+        "title":"Beef Stew",
+        "ingredients":[
+            "onions",
+            "sugar",
+            "tapioca",
+            "celery",
+            "potatoes",
+            "salt",
+            "carrots",
+            "stew meat"
+        ],
+        "instructions":[
+            "Mix all ingredients in large casserole dish.",
+            "Cover.",
+            "Bake at 250\u00b0 for 5 to 6 hours.",
+            "Serve with cornbread."
+        ]
+    },
+    {
+        "title":"El'S Cole Slaw",
+        "ingredients":[
+            "mayonnaise",
+            "sugar",
+            "paprika",
+            "peppers",
+            "cabbage",
+            "salt",
+            "vinegar",
+            "carrots"
+        ],
+        "instructions":[
+            "Shred cabbage, carrots and peppers.",
+            "(Can use large package of shredded cole slaw, but add peppers to it.) Salt to taste."
+        ]
+    },
+    {
+        "title":"Coconut Pie",
+        "ingredients":[
+            "vanilla",
+            "sugar",
+            "eggs",
+            "coconuts",
+            "butter",
+            "milk"
+        ],
+        "instructions":[
+            "Beat eggs, sugar and flour together well.",
+            "Add milk and pour over eggs, sugar and butter.",
+            "Add coconut, add vanilla.",
+            "Cook at 300\u00b0 for 1 hour or until brown.",
+            "Makes 2 pies."
+        ]
+    },
+    {
+        "title":"Fried Tomatoes",
+        "ingredients":[
+            "eggs",
+            "bread crumbs",
+            "tomatoes",
+            "hot fat"
+        ],
+        "instructions":[
+            "Slice tomatoes 3\/4-inch thick.",
+            "Dip into beaten eggs and then into fine bread crumbs.",
+            "Fry in hot fat (half oleo and half cooking oil) until brown on both sides."
+        ]
+    }
+]

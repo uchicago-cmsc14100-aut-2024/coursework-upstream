@@ -1,0 +1,60 @@
+[
+    {
+        "title":"Praline Grahams",
+        "ingredients":[
+            "vanilla",
+            "sugar",
+            "crackers",
+            "butter",
+            "nuts"
+        ],
+        "instructions":[
+            "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+            "Cookie sheet must have sides.",
+            "Put butter and sugar in pan and cook 1 1\/2 minutes.",
+            "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+            "When cool, break apart. Can be frozen.",
+            "Will not get soggy."
+        ]
+    },
+    {
+        "title":"Vegetable Pizza",
+        "ingredients":[
+            "vegetables",
+            "shredded cheese",
+            "cream cheese",
+            "sour cream",
+            "crescent rolls",
+            "salad dressing",
+            "garlic salt"
+        ],
+        "instructions":[
+            "Unroll crescent dough.",
+            "Do not separate.",
+            "Press seams together to fill the bottom of a 15 x 10-inch pan.",
+            "Bake at 375\u00b0 for 10 to 12 minutes.",
+            "Cool."
+        ]
+    },
+    {
+        "title":"Pumpkin Bread",
+        "ingredients":[
+            "pumpkin",
+            "cold water",
+            "sugar",
+            "cinnamon",
+            "salad oil",
+            "eggs",
+            "baking soda",
+            "baking powder",
+            "flour",
+            "salt",
+            "nuts"
+        ],
+        "instructions":[
+            "Combine all ingredients in bowl and mix.",
+            "Bake 1 1\/2 hours at 325\u00b0.",
+            "Makes 1 large loaf or 2 medium loaves."
+        ]
+    }
+]

@@ -1,0 +1,1470 @@
+{
+    "recipes_1": {
+        "vanilla": [
+            "Praline Grahams"
+        ],
+        "sugar": [
+            "Praline Grahams"
+        ],
+        "crackers": [
+            "Praline Grahams"
+        ],
+        "butter": [
+            "Praline Grahams"
+        ],
+        "nuts": [
+            "Praline Grahams"
+        ]
+    },
+    "recipes_3": {
+        "vanilla": [
+            "Praline Grahams"
+        ],
+        "sugar": [
+            "Praline Grahams",
+            "Pumpkin Bread"
+        ],
+        "crackers": [
+            "Praline Grahams"
+        ],
+        "butter": [
+            "Praline Grahams"
+        ],
+        "nuts": [
+            "Praline Grahams",
+            "Pumpkin Bread"
+        ],
+        "vegetables": [
+            "Vegetable Pizza"
+        ],
+        "shredded cheese": [
+            "Vegetable Pizza"
+        ],
+        "cream cheese": [
+            "Vegetable Pizza"
+        ],
+        "sour cream": [
+            "Vegetable Pizza"
+        ],
+        "crescent rolls": [
+            "Vegetable Pizza"
+        ],
+        "salad dressing": [
+            "Vegetable Pizza"
+        ],
+        "garlic salt": [
+            "Vegetable Pizza"
+        ],
+        "pumpkin": [
+            "Pumpkin Bread"
+        ],
+        "cold water": [
+            "Pumpkin Bread"
+        ],
+        "cinnamon": [
+            "Pumpkin Bread"
+        ],
+        "salad oil": [
+            "Pumpkin Bread"
+        ],
+        "eggs": [
+            "Pumpkin Bread"
+        ],
+        "baking soda": [
+            "Pumpkin Bread"
+        ],
+        "baking powder": [
+            "Pumpkin Bread"
+        ],
+        "flour": [
+            "Pumpkin Bread"
+        ],
+        "salt": [
+            "Pumpkin Bread"
+        ]
+    },
+    "recipes_10": {
+        "chicken": [
+            "Nan Marshall'S Baked Chicken"
+        ],
+        "all-purpose": [
+            "Nan Marshall'S Baked Chicken"
+        ],
+        "pepper": [
+            "Nan Marshall'S Baked Chicken",
+            "Corn Pudding"
+        ],
+        "shortening": [
+            "Nan Marshall'S Baked Chicken"
+        ],
+        "salt": [
+            "Nan Marshall'S Baked Chicken",
+            "Egg Custard Pie",
+            "Pasta With Tomato Vodka Sauce",
+            "Chinese Barbecued Spareribs",
+            "Corn Pudding",
+            "Green Snap Beans"
+        ],
+        "mayonnaise": [
+            "Mom'S Special Party Cheese Balls",
+            "Rye Rounds"
+        ],
+        "worcestershire sauce": [
+            "Mom'S Special Party Cheese Balls",
+            "Rye Rounds"
+        ],
+        "cream cheese": [
+            "Mom'S Special Party Cheese Balls"
+        ],
+        "cheddar cheese": [
+            "Mom'S Special Party Cheese Balls"
+        ],
+        "onion": [
+            "Mom'S Special Party Cheese Balls",
+            "Pasta With Tomato Vodka Sauce",
+            "Bean Bake"
+        ],
+        "parsley flakes": [
+            "Mom'S Special Party Cheese Balls"
+        ],
+        "pecans": [
+            "Mom'S Special Party Cheese Balls"
+        ],
+        "vanilla": [
+            "Egg Custard Pie",
+            "K'S Brownies"
+        ],
+        "sugar": [
+            "Egg Custard Pie",
+            "Chinese Barbecued Spareribs",
+            "Corn Pudding",
+            "Green Snap Beans",
+            "K'S Brownies"
+        ],
+        "eggs": [
+            "Egg Custard Pie",
+            "Corn Pudding",
+            "K'S Brownies"
+        ],
+        "butter": [
+            "Egg Custard Pie"
+        ],
+        "milk": [
+            "Egg Custard Pie",
+            "Corn Pudding"
+        ],
+        "parsley": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "olive oil": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "red pepper": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "pasta": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "vodka": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "clove garlic": [
+            "Pasta With Tomato Vodka Sauce",
+            "Chinese Barbecued Spareribs"
+        ],
+        "heavy cream": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "tomatoes": [
+            "Pasta With Tomato Vodka Sauce"
+        ],
+        "soy sauce": [
+            "Chinese Barbecued Spareribs"
+        ],
+        "spareribs": [
+            "Chinese Barbecued Spareribs"
+        ],
+        "corn": [
+            "Corn Pudding"
+        ],
+        "lots of butter": [
+            "Corn Pudding"
+        ],
+        "flour": [
+            "Corn Pudding",
+            "K'S Brownies"
+        ],
+        "fresh green beans": [
+            "Green Snap Beans"
+        ],
+        "bacon": [
+            "Green Snap Beans"
+        ],
+        "horseradish": [
+            "Rye Rounds"
+        ],
+        "party rye bread": [
+            "Rye Rounds"
+        ],
+        "onion rings": [
+            "Rye Rounds"
+        ],
+        "parmesan cheese": [
+            "Rye Rounds"
+        ],
+        "tabasco sauce": [
+            "Rye Rounds"
+        ],
+        "ketchup": [
+            "Bean Bake"
+        ],
+        "green pepper": [
+            "Bean Bake"
+        ],
+        "kidney beans": [
+            "Bean Bake"
+        ],
+        "beans": [
+            "Bean Bake"
+        ],
+        "ground beef": [
+            "Bean Bake"
+        ],
+        "pork": [
+            "Bean Bake"
+        ],
+        "cocoa": [
+            "K'S Brownies"
+        ],
+        "margarine": [
+            "K'S Brownies"
+        ]
+    },
+    "recipes_100": {
+        "croutons": [
+            "Sausage And Egg Casserole"
+        ],
+        "eggs": [
+            "Sausage And Egg Casserole",
+            "Cream Cheese Pound Cake",
+            "Sugar-Free Doughnuts",
+            "Mom'S Meat Loaf",
+            "Zucchini Bread",
+            "Easy Cottage Cheese Loaf",
+            "Kahlua Pound Cake",
+            "Cherry Squares",
+            "Vanilla Ice Cream",
+            "Pasta Frola (Guava Torte)",
+            "Meat Loaf",
+            "Chocolate Pound Cake",
+            "Broccoli Cornbread",
+            "Our Favorite Pound Cake",
+            "Broccoli Casserole",
+            "Easter Pie",
+            "Lemon Squares",
+            "Meat Loaf With Zesty Topping",
+            "Clam Fritters",
+            "Pam'S Meat Loaf",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "pork sausage": [
+            "Sausage And Egg Casserole"
+        ],
+        "milk": [
+            "Sausage And Egg Casserole",
+            "Raisin Cream Pie",
+            "Buttercream Frosting",
+            "Creamy Pasta With Mushrooms",
+            "Vanilla Ice Cream",
+            "Mock Whipped Cream Icing",
+            "Raisin And Nut Bran Muffins",
+            "Chocolate Pound Cake",
+            "Our Favorite Pound Cake",
+            "Pecan Pralines",
+            "Skillet Bread",
+            "Broccoli Casserole",
+            "Cream Of Broccoli Soup",
+            "Meat Loaf With Zesty Topping",
+            "Pam'S Meat Loaf",
+            "Turkey Tetrazzini"
+        ],
+        "salt": [
+            "Sausage And Egg Casserole",
+            "Squash Casserole",
+            "Pork Chops",
+            "Baked Beans With Hamburger",
+            "Mom'S Meat Loaf",
+            "Beer Bread",
+            "Zucchini Bread",
+            "Chicken A La King",
+            "Lamb And Okra Stew",
+            "Buttercream Frosting",
+            "Cheese And Sour Cream Potatoes",
+            "Mayonnaise Cake",
+            "Vanilla Ice Cream",
+            "Texas State Fair Blue Ribbon Chili",
+            "Pork Barbecue Sauce",
+            "Easy Beef Stew",
+            "Chocolate Pound Cake",
+            "Old Fashioned Apple Crisp",
+            "Broccoli Cornbread",
+            "Our Favorite Pound Cake",
+            "Orange Glazed Carrots",
+            "Skillet Bread",
+            "Broccoli Casserole",
+            "Homemade Canned Spaghetti Sauce",
+            "Pickled Eggs",
+            "Hamburger Pie",
+            "Lemon Squares",
+            "Stuffed Cabbage Rolls",
+            "Chocolate Bottom Bites",
+            "Meat Loaf With Zesty Topping",
+            "Clam Fritters",
+            "Cheese Dip",
+            "Strawberry Pie",
+            "Special Beef Stroganoff",
+            "Pam'S Meat Loaf",
+            "Corn Muffins"
+        ],
+        "grated cheese": [
+            "Sausage And Egg Casserole"
+        ],
+        "cream of mushroom soup": [
+            "Squash Casserole",
+            "Vegetable Casserole",
+            "Easy Beef Stew",
+            "Broccoli And Chicken",
+            "Chicken Spaghetti",
+            "Turkey Tetrazzini"
+        ],
+        "yellow squash": [
+            "Squash Casserole"
+        ],
+        "dressing": [
+            "Squash Casserole",
+            "Chicken L'Orange"
+        ],
+        "butter": [
+            "Squash Casserole",
+            "Cream Cheese Pound Cake",
+            "Church Window Cookies",
+            "Chicken A La King",
+            "Apple Surprise",
+            "Buttercream Frosting",
+            "Cheese And Sour Cream Potatoes",
+            "Tree Bark",
+            "Black Olive Cheese Ball",
+            "Wedding Potatoes",
+            "Cherry Squares",
+            "Raisin And Nut Bran Muffins",
+            "Old Fashioned Apple Crisp",
+            "Broccoli Cornbread",
+            "Our Favorite Pound Cake",
+            "Orange Glazed Carrots",
+            "Pecan Pralines",
+            "Oven Baked Potato Wedges",
+            "Cream Of Broccoli Soup",
+            "Apple Impromtuv"
+        ],
+        "onion": [
+            "Squash Casserole",
+            "Black Bean Chili In 20 Minutes",
+            "Pork Chops",
+            "Baked Beans With Hamburger",
+            "Mom'S Meat Loaf",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Easy Cottage Cheese Loaf",
+            "Cheese And Sour Cream Potatoes",
+            "Wedding Potatoes",
+            "Meat Loaf",
+            "Chicken And Broccoli Casserole",
+            "Easy Beef Stew",
+            "Broccoli Cornbread",
+            "Broccoli Casserole",
+            "Homemade Canned Spaghetti Sauce",
+            "Cream Of Broccoli Soup",
+            "Hamburger Pie",
+            "Stuffed Cabbage Rolls",
+            "Meat Loaf With Zesty Topping",
+            "Cheese Dip",
+            "Special Beef Stroganoff",
+            "Pam'S Meat Loaf"
+        ],
+        "sour cream": [
+            "Squash Casserole",
+            "Chipped Beef Appetizer",
+            "Cheese And Sour Cream Potatoes",
+            "Wedding Potatoes",
+            "Super Nachos",
+            "Broccoli And Chicken",
+            "Special Beef Stroganoff"
+        ],
+        "black beans": [
+            "Black Bean Chili In 20 Minutes",
+            "Chicken Nacho Dip"
+        ],
+        "green pepper": [
+            "Black Bean Chili In 20 Minutes",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Chicken A La King",
+            "Meat Loaf",
+            "Homemade Canned Spaghetti Sauce"
+        ],
+        "ground cumin": [
+            "Black Bean Chili In 20 Minutes"
+        ],
+        "olive oil": [
+            "Black Bean Chili In 20 Minutes",
+            "Easter Pie",
+            "Cousin Carol'S Seafood Sauce"
+        ],
+        "brown sugar": [
+            "Black Bean Chili In 20 Minutes",
+            "Raisin Cream Pie",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Tree Bark",
+            "Old Fashioned Apple Crisp",
+            "Pecan Pralines",
+            "Meat Loaf With Zesty Topping",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "chili powder": [
+            "Black Bean Chili In 20 Minutes",
+            "Texas State Fair Blue Ribbon Chili",
+            "Homemade Canned Spaghetti Sauce"
+        ],
+        "tomatoes": [
+            "Black Bean Chili In 20 Minutes",
+            "Pork Chops",
+            "Chicken Nacho Dip",
+            "Lamb And Okra Stew",
+            "Green Bean And Mozzarella Salad",
+            "Super Nachos",
+            "Homemade Canned Spaghetti Sauce",
+            "Mema Weimar'S Macaroni And Cheese",
+            "Chicken Spaghetti"
+        ],
+        "garlic": [
+            "Black Bean Chili In 20 Minutes",
+            "Chicken Nacho Dip",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Lamb And Okra Stew",
+            "Creamy Pasta With Mushrooms",
+            "Guinea Garbage",
+            "Cousin Carol'S Seafood Sauce",
+            "Chinese Barbecued Pork",
+            "Cheese Dip"
+        ],
+        "vanilla": [
+            "Milk And Egg Free Cake",
+            "Strawberry Milkshake",
+            "Cream Cheese Pound Cake",
+            "Zucchini Bread",
+            "Buttercream Frosting",
+            "Mayonnaise Cake",
+            "Cherry Squares",
+            "Vanilla Ice Cream",
+            "Mock Whipped Cream Icing",
+            "Chocolate Pound Cake",
+            "Our Favorite Pound Cake",
+            "Pecan Pralines",
+            "Whipped Cream",
+            "Chocolate Bottom Bites",
+            "Apple Impromtuv"
+        ],
+        "applesauce": [
+            "Milk And Egg Free Cake"
+        ],
+        "sugar": [
+            "Milk And Egg Free Cake",
+            "Cream Cheese Pound Cake",
+            "Pork Chops",
+            "Mock Apple Pie",
+            "Beer Bread",
+            "Zucchini Bread",
+            "Mayonnaise Cake",
+            "Cherry Squares",
+            "Vanilla Ice Cream",
+            "Pasta Frola (Guava Torte)",
+            "Strawberry Pie",
+            "Mock Whipped Cream Icing",
+            "Raisin And Nut Bran Muffins",
+            "Chocolate Pound Cake",
+            "Orange Glazed Carrots",
+            "Lettuce Salad",
+            "Pickled Eggs",
+            "Lemon Squares",
+            "Chocolate Bottom Bites",
+            "Chinese Barbecued Pork",
+            "Apple Impromtuv",
+            "Strawberry Pie",
+            "Corn Muffins",
+            "Chicken L'Orange"
+        ],
+        "baking soda": [
+            "Milk And Egg Free Cake",
+            "Chocolate Bottom Bites"
+        ],
+        "flour": [
+            "Milk And Egg Free Cake",
+            "Cream Cheese Pound Cake",
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Sugar-Free Doughnuts",
+            "Raisin Cream Pie",
+            "Beer Bread",
+            "Zucchini Bread",
+            "Chicken A La King",
+            "Mayonnaise Cake",
+            "Cherry Squares",
+            "Pasta Frola (Guava Torte)",
+            "Texas State Fair Blue Ribbon Chili",
+            "Raisin And Nut Bran Muffins",
+            "Chocolate Pound Cake",
+            "Old Fashioned Apple Crisp",
+            "Our Favorite Pound Cake",
+            "Oven Baked Potato Wedges",
+            "Cream Of Broccoli Soup",
+            "Lemon Squares",
+            "Chocolate Bottom Bites",
+            "Apple Impromtuv",
+            "Ham And Swiss Pinwheels",
+            "Corn Muffins"
+        ],
+        "vegetable oil": [
+            "Milk And Egg Free Cake",
+            "Mock Apple Pie",
+            "Chocolate Bottom Bites"
+        ],
+        "vanilla ice cream": [
+            "Strawberry Milkshake",
+            "Strawberry Delight"
+        ],
+        "egg": [
+            "Strawberry Milkshake",
+            "Sweet And Sour Cocktail Meatballs",
+            "Buttercream Frosting",
+            "Raisin And Nut Bran Muffins",
+            "Skillet Bread",
+            "Chocolate Bottom Bites",
+            "Apple Impromtuv",
+            "Corn Muffins"
+        ],
+        "fresh strawberries": [
+            "Strawberry Milkshake",
+            "Strawberry Pie"
+        ],
+        "cream cheese": [
+            "Cream Cheese Pound Cake",
+            "Stuffed Celery",
+            "Chipped Beef Appetizer",
+            "Mexican Dip",
+            "Chocolate Bottom Bites",
+            "Earthquake Cake"
+        ],
+        "raisins": [
+            "Ice Box Fruit Cake",
+            "Stuffed Celery",
+            "Raisin Cream Pie",
+            "Zucchini Bread"
+        ],
+        "pet milk": [
+            "Ice Box Fruit Cake"
+        ],
+        "cherries": [
+            "Ice Box Fruit Cake"
+        ],
+        "marshmallows": [
+            "Ice Box Fruit Cake",
+            "Date Roll"
+        ],
+        "graham crackers": [
+            "Ice Box Fruit Cake"
+        ],
+        "pecans": [
+            "Ice Box Fruit Cake",
+            "Twinkie Cake",
+            "Kahlua Pound Cake",
+            "Raisin And Nut Bran Muffins",
+            "Pecan Pralines",
+            "Cherry Delight Dump Cake"
+        ],
+        "pepper": [
+            "Pork Chops",
+            "Chicken A La King",
+            "Cheese And Sour Cream Potatoes",
+            "Meat Loaf",
+            "Pork Barbecue Sauce",
+            "Green Bean And Mozzarella Salad",
+            "Homemade Canned Spaghetti Sauce",
+            "Easter Pie",
+            "Stuffed Cabbage Rolls",
+            "Meat Loaf With Zesty Topping",
+            "Special Beef Stroganoff",
+            "Pam'S Meat Loaf"
+        ],
+        "tomato juice": [
+            "Pork Chops"
+        ],
+        "pork chops": [
+            "Pork Chops"
+        ],
+        "mayonnaise": [
+            "Creamy Pimento Cheese Spread",
+            "Stuffed Celery",
+            "Lemon Salad Supreme",
+            "Creamy Pasta With Mushrooms",
+            "Broccoli Casserole"
+        ],
+        "hot sauce": [
+            "Creamy Pimento Cheese Spread"
+        ],
+        "cheddar cheese": [
+            "Creamy Pimento Cheese Spread",
+            "Ham Balls",
+            "Cheese And Sour Cream Potatoes",
+            "Super Nachos",
+            "Broccoli Casserole",
+            "Cream Of Broccoli Soup",
+            "Hamburger Pie",
+            "Mema Weimar'S Macaroni And Cheese",
+            "Turkey Tetrazzini"
+        ],
+        "cottage cheese": [
+            "Creamy Pimento Cheese Spread",
+            "Broccoli Cornbread"
+        ],
+        "white pepper": [
+            "Creamy Pimento Cheese Spread"
+        ],
+        "pimento": [
+            "Creamy Pimento Cheese Spread",
+            "Chicken A La King",
+            "Turkey Tetrazzini"
+        ],
+        "fruit salad": [
+            "Lemon Fruit Salad"
+        ],
+        "lemon juice": [
+            "Lemon Fruit Salad",
+            "Lemon Salad Supreme",
+            "Lamb And Okra Stew",
+            "Apple Surprise",
+            "Chicken L'Orange"
+        ],
+        "apricots": [
+            "Lemon Fruit Salad"
+        ],
+        "bananas": [
+            "Lemon Fruit Salad",
+            "Twinkie Cake"
+        ],
+        "pineapple": [
+            "Lemon Fruit Salad",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Lemon Salad Supreme",
+            "Twinkie Cake",
+            "Lettuce Salad",
+            "Sunshine Salad",
+            "Cherry Delight Dump Cake",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "flaked coconut": [
+            "Church Window Cookies"
+        ],
+        "walnuts": [
+            "Church Window Cookies",
+            "Easy Cottage Cheese Loaf"
+        ],
+        "colored mini": [
+            "Church Window Cookies"
+        ],
+        "semi-sweet chocolate chips": [
+            "Church Window Cookies",
+            "Tree Bark"
+        ],
+        "parsley": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Easy Cottage Cheese Loaf",
+            "Cousin Carol'S Seafood Sauce",
+            "Turkey Tetrazzini"
+        ],
+        "frozen broccoli": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Vegetable Casserole",
+            "Cream Of Broccoli Soup"
+        ],
+        "chicken broth": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Chicken A La King"
+        ],
+        "mushroom": [
+            "Chicken And Broccoli With Mushroom Sauce"
+        ],
+        "chicken": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Chicken Nacho Dip",
+            "Chicken A La King",
+            "Lemon Salad Supreme",
+            "Chicken And Broccoli Casserole",
+            "Broccoli And Chicken",
+            "Chicken Casserole",
+            "Chicken Spaghetti"
+        ],
+        "bread crumbs": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Sweet And Sour Cocktail Meatballs",
+            "Cheese And Sour Cream Potatoes",
+            "Wedding Potatoes",
+            "Meat Loaf With Zesty Topping",
+            "Pam'S Meat Loaf",
+            "Turkey Tetrazzini"
+        ],
+        "margarine": [
+            "Chicken And Broccoli With Mushroom Sauce",
+            "Sugar-Free Doughnuts",
+            "Date Roll",
+            "Easy Cottage Cheese Loaf",
+            "Pasta Frola (Guava Torte)",
+            "Mock Whipped Cream Icing",
+            "Lemon Squares",
+            "Cherry Delight Dump Cake",
+            "Earthquake Cake"
+        ],
+        "celery": [
+            "Stuffed Celery",
+            "Chicken And Broccoli Casserole",
+            "Special Beef Stroganoff"
+        ],
+        "olives": [
+            "Stuffed Celery",
+            "Chicken Nacho Dip"
+        ],
+        "taco seasoning mix": [
+            "Chicken Nacho Dip"
+        ],
+        "salsa": [
+            "Chicken Nacho Dip"
+        ],
+        "green onions": [
+            "Chicken Nacho Dip",
+            "Chipped Beef Appetizer",
+            "Lettuce Salad"
+        ],
+        "nonfat sour cream": [
+            "Chicken Nacho Dip"
+        ],
+        "green chiles": [
+            "Chicken Nacho Dip"
+        ],
+        "cilantro": [
+            "Chicken Nacho Dip"
+        ],
+        "light beer": [
+            "Chicken Nacho Dip"
+        ],
+        "cheddar": [
+            "Chicken Nacho Dip"
+        ],
+        "potatoes": [
+            "Sugar-Free Doughnuts",
+            "Wedding Potatoes",
+            "Easy Beef Stew"
+        ],
+        "shortening": [
+            "Sugar-Free Doughnuts",
+            "Chocolate Pound Cake",
+            "Special Beef Stroganoff"
+        ],
+        "oil": [
+            "Sugar-Free Doughnuts",
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Zucchini Bread",
+            "Lamb And Okra Stew",
+            "Kahlua Pound Cake",
+            "Chinese Barbecued Pork",
+            "Clam Fritters",
+            "Corn Muffins"
+        ],
+        "yeast": [
+            "Sugar-Free Doughnuts"
+        ],
+        "water": [
+            "Sugar-Free Doughnuts",
+            "Mock Apple Pie",
+            "Raisin Cream Pie",
+            "Kahlua Pound Cake",
+            "Strawberry Pie",
+            "Super Nachos",
+            "Pickled Eggs",
+            "Sunshine Salad",
+            "Chocolate Bottom Bites",
+            "Mema Weimar'S Macaroni And Cheese",
+            "Strawberry Pie",
+            "Finger Paint",
+            "Turkey Tetrazzini"
+        ],
+        "bisquick": [
+            "Ham Balls",
+            "Sausage Balls"
+        ],
+        "grated ham": [
+            "Ham Balls"
+        ],
+        "pork": [
+            "Baked Beans With Hamburger",
+            "Chinese Barbecued Pork"
+        ],
+        "worcestershire sauce": [
+            "Baked Beans With Hamburger",
+            "Meat Loaf",
+            "Special Beef Stroganoff"
+        ],
+        "ketchup": [
+            "Baked Beans With Hamburger",
+            "Mom'S Meat Loaf",
+            "Meat Loaf",
+            "Meat Loaf With Zesty Topping"
+        ],
+        "molasses": [
+            "Baked Beans With Hamburger"
+        ],
+        "bacon": [
+            "Baked Beans With Hamburger"
+        ],
+        "mustard": [
+            "Baked Beans With Hamburger",
+            "Meat Loaf With Zesty Topping",
+            "Ham And Swiss Pinwheels"
+        ],
+        "ground beef": [
+            "Baked Beans With Hamburger",
+            "Sweet And Sour Cocktail Meatballs",
+            "Mom'S Meat Loaf",
+            "Meat Loaf",
+            "Super Nachos",
+            "Hamburger Pie",
+            "Stuffed Cabbage Rolls",
+            "Meat Loaf With Zesty Topping",
+            "Pam'S Meat Loaf"
+        ],
+        "barbecue sauce": [
+            "Sweet And Sour Cocktail Meatballs",
+            "Pork Barbecue Sauce"
+        ],
+        "accent": [
+            "Sweet And Sour Cocktail Meatballs"
+        ],
+        "currant jelly": [
+            "Sweet And Sour Cocktail Meatballs"
+        ],
+        "onion soup mix": [
+            "Sweet And Sour Cocktail Meatballs"
+        ],
+        "apple jelly": [
+            "Sweet And Sour Cocktail Meatballs"
+        ],
+        "pastry": [
+            "Mock Apple Pie",
+            "Easter Pie"
+        ],
+        "lemon": [
+            "Mock Apple Pie",
+            "Cherry Squares"
+        ],
+        "bonnet": [
+            "Mock Apple Pie"
+        ],
+        "cream of tartar": [
+            "Mock Apple Pie"
+        ],
+        "cinnamon": [
+            "Mock Apple Pie",
+            "Zucchini Bread",
+            "Apple Surprise",
+            "Old Fashioned Apple Crisp",
+            "Homemade Canned Spaghetti Sauce"
+        ],
+        "crackers": [
+            "Mock Apple Pie"
+        ],
+        "egg yolks": [
+            "Raisin Cream Pie"
+        ],
+        "saltine crackers": [
+            "Mom'S Meat Loaf"
+        ],
+        "graham cracker crumbs": [
+            "Date Roll"
+        ],
+        "dates": [
+            "Date Roll"
+        ],
+        "nuts": [
+            "Date Roll",
+            "Zucchini Bread",
+            "Apple Surprise",
+            "Earthquake Cake"
+        ],
+        "mayo": [
+            "Chipped Beef Appetizer"
+        ],
+        "swiss cheese": [
+            "Chipped Beef Appetizer",
+            "Ham And Swiss Pinwheels"
+        ],
+        "garlic salt": [
+            "Chipped Beef Appetizer",
+            "Special Beef Stroganoff"
+        ],
+        "chipped beef": [
+            "Chipped Beef Appetizer"
+        ],
+        "soy sauce": [
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Chinese Barbecued Pork"
+        ],
+        "cornstarch": [
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Strawberry Pie",
+            "Orange Glazed Carrots",
+            "Strawberry Pie"
+        ],
+        "rice": [
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Lamb And Okra Stew",
+            "Stuffed Cabbage Rolls"
+        ],
+        "ginger root": [
+            "Sweet And Sour Chicken(Chinese)  "
+        ],
+        "chicken breasts": [
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Chicken L'Orange"
+        ],
+        "vinegar": [
+            "Sweet And Sour Chicken(Chinese)  ",
+            "Pork Barbecue Sauce",
+            "Homemade Canned Spaghetti Sauce",
+            "Pickled Eggs",
+            "Stuffed Cabbage Rolls",
+            "Chocolate Bottom Bites"
+        ],
+        "red pepper": [
+            "Sweet And Sour Chicken(Chinese)  "
+        ],
+        "beer": [
+            "Beer Bread"
+        ],
+        "baking powder": [
+            "Beer Bread",
+            "Zucchini Bread",
+            "Pasta Frola (Guava Torte)",
+            "Chocolate Pound Cake",
+            "Skillet Bread",
+            "Apple Impromtuv",
+            "Corn Muffins"
+        ],
+        "zucchini": [
+            "Zucchini Bread"
+        ],
+        "soda": [
+            "Zucchini Bread",
+            "Mayonnaise Cake",
+            "Corn Muffins"
+        ],
+        "mushrooms": [
+            "Chicken A La King",
+            "Creamy Pasta With Mushrooms",
+            "Special Beef Stroganoff"
+        ],
+        "cream": [
+            "Chicken A La King"
+        ],
+        "lime gelatin": [
+            "Lemon Salad Supreme"
+        ],
+        "almonds": [
+            "Lemon Salad Supreme",
+            "Lettuce Salad"
+        ],
+        "boiling water": [
+            "Lemon Salad Supreme"
+        ],
+        "fresh okra": [
+            "Lamb And Okra Stew"
+        ],
+        "lamb chunks": [
+            "Lamb And Okra Stew"
+        ],
+        "twinkies": [
+            "Twinkie Cake"
+        ],
+        "instant vanilla pudding": [
+            "Twinkie Cake"
+        ],
+        "sausage": [
+            "Sausage Balls",
+            "Chicken And Broccoli Casserole",
+            "Confirmation Auction Cavatini"
+        ],
+        "velveeta cheese": [
+            "Sausage Balls",
+            "Cheese Dip"
+        ],
+        "cereal": [
+            "Easy Cottage Cheese Loaf"
+        ],
+        "broth": [
+            "Easy Cottage Cheese Loaf"
+        ],
+        "cheese": [
+            "Easy Cottage Cheese Loaf",
+            "Black Olive Cheese Ball",
+            "Meat Loaf"
+        ],
+        "yellow cake": [
+            "Apple Surprise",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "apple pie filling": [
+            "Apple Surprise",
+            "Apple Impromtuv"
+        ],
+        "powdered sugar": [
+            "Buttercream Frosting",
+            "Lemon Squares",
+            "Earthquake Cake"
+        ],
+        "parmesan cheese": [
+            "Creamy Pasta With Mushrooms",
+            "Oven Baked Potato Wedges",
+            "Turkey Tetrazzini"
+        ],
+        "egg beaters": [
+            "Creamy Pasta With Mushrooms"
+        ],
+        "sweet": [
+            "Guinea Garbage"
+        ],
+        "italian spice": [
+            "Guinea Garbage"
+        ],
+        "onions": [
+            "Guinea Garbage"
+        ],
+        "tomato sauce": [
+            "Guinea Garbage",
+            "Texas State Fair Blue Ribbon Chili",
+            "Cousin Carol'S Seafood Sauce",
+            "Special Beef Stroganoff"
+        ],
+        "rolls": [
+            "Guinea Garbage"
+        ],
+        "oregano": [
+            "Guinea Garbage"
+        ],
+        "green peppers": [
+            "Guinea Garbage"
+        ],
+        "red peppers": [
+            "Guinea Garbage"
+        ],
+        "vanilla pudding": [
+            "Strawberry Delight"
+        ],
+        "cake": [
+            "Strawberry Delight"
+        ],
+        "frozen strawberries": [
+            "Strawberry Delight"
+        ],
+        "strawberry jello": [
+            "Strawberry Delight"
+        ],
+        "cream of chicken soup": [
+            "Cheese And Sour Cream Potatoes",
+            "Wedding Potatoes",
+            "Chicken And Broccoli Casserole",
+            "Cream Of Broccoli Soup",
+            "Chicken Spaghetti"
+        ],
+        "frozen hash brown potatoes": [
+            "Cheese And Sour Cream Potatoes"
+        ],
+        "saltines": [
+            "Tree Bark"
+        ],
+        "cold water": [
+            "Mayonnaise Cake",
+            "Sunshine Salad"
+        ],
+        "cocoa": [
+            "Mayonnaise Cake",
+            "Chocolate Pound Cake",
+            "Chocolate Bottom Bites"
+        ],
+        "salad dressing": [
+            "Mayonnaise Cake"
+        ],
+        "kahlua": [
+            "Kahlua Pound Cake"
+        ],
+        "yellow butter": [
+            "Kahlua Pound Cake"
+        ],
+        "chives": [
+            "Black Olive Cheese Ball"
+        ],
+        "paprika": [
+            "Black Olive Cheese Ball",
+            "Texas State Fair Blue Ribbon Chili"
+        ],
+        "philadelphia cream cheese": [
+            "Black Olive Cheese Ball"
+        ],
+        "black olives": [
+            "Black Olive Cheese Ball"
+        ],
+        "hormel chili with beans": [
+            "Mexican Dip"
+        ],
+        "shredded cheese": [
+            "Wedding Potatoes"
+        ],
+        "cherry pie filling": [
+            "Cherry Squares"
+        ],
+        "condensed milk": [
+            "Vanilla Ice Cream"
+        ],
+        "guava jelly": [
+            "Pasta Frola (Guava Torte)"
+        ],
+        "black pepper": [
+            "Texas State Fair Blue Ribbon Chili",
+            "Pork Barbecue Sauce"
+        ],
+        "cumin": [
+            "Texas State Fair Blue Ribbon Chili"
+        ],
+        "chili meat": [
+            "Texas State Fair Blue Ribbon Chili"
+        ],
+        "red": [
+            "Meat Loaf"
+        ],
+        "roll cheesy": [
+            "Meat Loaf"
+        ],
+        "strawberry gelatin": [
+            "Strawberry Pie"
+        ],
+        "pie shell": [
+            "Strawberry Pie"
+        ],
+        "stuffing": [
+            "Chicken And Broccoli Casserole"
+        ],
+        "velvetta cheese": [
+            "Chicken And Broccoli Casserole"
+        ],
+        "red ground pepper": [
+            "Pork Barbecue Sauce"
+        ],
+        "bottles": [
+            "Pork Barbecue Sauce"
+        ],
+        "crisco": [
+            "Mock Whipped Cream Icing"
+        ],
+        "frozen brussels": [
+            "Vegetable Casserole"
+        ],
+        "frozen cauliflower": [
+            "Vegetable Casserole"
+        ],
+        "american cheese": [
+            "Vegetable Casserole"
+        ],
+        "bran": [
+            "Raisin And Nut Bran Muffins"
+        ],
+        "light": [
+            "Raisin And Nut Bran Muffins"
+        ],
+        "beef": [
+            "Easy Beef Stew"
+        ],
+        "tomato soup": [
+            "Easy Beef Stew",
+            "Stuffed Cabbage Rolls"
+        ],
+        "carrots": [
+            "Easy Beef Stew",
+            "Orange Glazed Carrots",
+            "Sunshine Salad",
+            "Turkey Tetrazzini"
+        ],
+        "oleo": [
+            "Chocolate Pound Cake"
+        ],
+        "thank you apple filling": [
+            "Old Fashioned Apple Crisp"
+        ],
+        "nutmeg": [
+            "Old Fashioned Apple Crisp"
+        ],
+        "oats": [
+            "Old Fashioned Apple Crisp"
+        ],
+        "broccoli": [
+            "Broccoli Cornbread",
+            "Broccoli And Chicken"
+        ],
+        "mix": [
+            "Broccoli Cornbread"
+        ],
+        "mace": [
+            "Our Favorite Pound Cake"
+        ],
+        "almond extract": [
+            "Our Favorite Pound Cake"
+        ],
+        "green beans": [
+            "Green Bean And Mozzarella Salad"
+        ],
+        "mozzarella cheese": [
+            "Green Bean And Mozzarella Salad",
+            "Easter Pie",
+            "Hamburger Pie",
+            "Confirmation Auction Cavatini"
+        ],
+        "italian salad dressing": [
+            "Green Bean And Mozzarella Salad"
+        ],
+        "basil": [
+            "Green Bean And Mozzarella Salad",
+            "Easter Pie",
+            "Cousin Carol'S Seafood Sauce"
+        ],
+        "taco": [
+            "Super Nachos"
+        ],
+        "monterey": [
+            "Super Nachos"
+        ],
+        "green chilies": [
+            "Super Nachos"
+        ],
+        "tortilla chips": [
+            "Super Nachos"
+        ],
+        "shredded lettuce": [
+            "Super Nachos"
+        ],
+        "bean": [
+            "Super Nachos"
+        ],
+        "guacamole": [
+            "Super Nachos"
+        ],
+        "orange juice": [
+            "Orange Glazed Carrots"
+        ],
+        "ginger": [
+            "Orange Glazed Carrots",
+            "Chinese Barbecued Pork"
+        ],
+        "white sugar": [
+            "Pecan Pralines"
+        ],
+        "meal": [
+            "Skillet Bread"
+        ],
+        "broccoli spears": [
+            "Broccoli Casserole"
+        ],
+        "cracker crumbs": [
+            "Broccoli Casserole"
+        ],
+        "fresh mushrooms": [
+            "Broccoli Casserole"
+        ],
+        "cream of celery soup": [
+            "Broccoli Casserole"
+        ],
+        "baking potatoes": [
+            "Oven Baked Potato Wedges"
+        ],
+        "powdered mustard": [
+            "Homemade Canned Spaghetti Sauce"
+        ],
+        "stalks celery": [
+            "Lettuce Salad"
+        ],
+        "romaine lettuce": [
+            "Lettuce Salad"
+        ],
+        "mandarin oranges": [
+            "Lettuce Salad"
+        ],
+        "orange jello": [
+            "Sunshine Salad"
+        ],
+        "ricotta cheese": [
+            "Easter Pie"
+        ],
+        "ham": [
+            "Easter Pie"
+        ],
+        "red bell pepper": [
+            "Easter Pie"
+        ],
+        "shrimp": [
+            "Cousin Carol'S Seafood Sauce"
+        ],
+        "white wine": [
+            "Cousin Carol'S Seafood Sauce"
+        ],
+        "clam juice": [
+            "Cousin Carol'S Seafood Sauce"
+        ],
+        "bell pepper": [
+            "Hamburger Pie"
+        ],
+        "spaghetti sauce": [
+            "Hamburger Pie",
+            "Confirmation Auction Cavatini"
+        ],
+        "crescent rolls": [
+            "Hamburger Pie"
+        ],
+        "realemon juice": [
+            "Lemon Squares"
+        ],
+        "cabbage": [
+            "Stuffed Cabbage Rolls"
+        ],
+        "angel": [
+            "Cherry Delight Dump Cake"
+        ],
+        "cherry": [
+            "Cherry Delight Dump Cake"
+        ],
+        "yellow cake mix": [
+            "Cherry Delight Dump Cake"
+        ],
+        "confectioners sugar": [
+            "Whipped Cream",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "heavy whipping cream": [
+            "Whipped Cream"
+        ],
+        "semi-sweet chocolate mini morsels": [
+            "Chocolate Bottom Bites"
+        ],
+        "bacon grease": [
+            "Mema Weimar'S Macaroni And Cheese"
+        ],
+        "elbow macaroni": [
+            "Mema Weimar'S Macaroni And Cheese"
+        ],
+        "carrot": [
+            "Meat Loaf With Zesty Topping"
+        ],
+        "wine": [
+            "Chinese Barbecued Pork"
+        ],
+        "honey": [
+            "Chinese Barbecued Pork",
+            "Ham And Swiss Pinwheels"
+        ],
+        "green onion": [
+            "Chinese Barbecued Pork"
+        ],
+        "clams": [
+            "Clam Fritters"
+        ],
+        "soda crackers": [
+            "Clam Fritters"
+        ],
+        "italian tomatoes": [
+            "Cheese Dip"
+        ],
+        "green chili peppers": [
+            "Cheese Dip"
+        ],
+        "vegetable cooking spray": [
+            "Ham And Swiss Pinwheels"
+        ],
+        "lean": [
+            "Ham And Swiss Pinwheels"
+        ],
+        "frozen white bread": [
+            "Ham And Swiss Pinwheels"
+        ],
+        "pastry shell": [
+            "Strawberry Pie"
+        ],
+        "strawberries": [
+            "Strawberry Pie"
+        ],
+        "red food coloring": [
+            "Strawberry Pie"
+        ],
+        "cooked beef": [
+            "Special Beef Stroganoff"
+        ],
+        "sage": [
+            "Pam'S Meat Loaf"
+        ],
+        "chocolate cake": [
+            "Earthquake Cake"
+        ],
+        "coconut": [
+            "Earthquake Cake",
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "plain yogurt": [
+            "Tropical Coconut Pineapple Bars"
+        ],
+        "cornmeal": [
+            "Corn Muffins"
+        ],
+        "buttermilk": [
+            "Corn Muffins"
+        ],
+        "mushroom soup": [
+            "Chicken Casserole"
+        ],
+        "onion soup": [
+            "Chicken L'Orange"
+        ],
+        "egg noodles": [
+            "Confirmation Auction Cavatini"
+        ],
+        "liquid starch": [
+            "Finger Paint"
+        ],
+        "soap chips": [
+            "Finger Paint"
+        ],
+        "spaghetti": [
+            "Chicken Spaghetti"
+        ],
+        "steak seasoning": [
+            "Chicken Spaghetti"
+        ],
+        "your choice": [
+            "Chicken Spaghetti"
+        ],
+        "turkey": [
+            "Turkey Tetrazzini"
+        ],
+        "frozen egg noodles": [
+            "Turkey Tetrazzini"
+        ]
+    }
+}

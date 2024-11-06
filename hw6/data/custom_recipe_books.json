@@ -1,0 +1,478 @@
+{
+    "recipes_1_none_vanilla": {},
+    "repeated_recipes_easy_vanilla": {
+        "Praline Grahams": {
+            "title": "Praline Grahams",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "crackers",
+                "butter",
+                "nuts"
+            ],
+            "instructions": [
+                "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+                "Cookie sheet must have sides.",
+                "Put butter and sugar in pan and cook 1 1/2 minutes.",
+                "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+                "When cool, break apart. Can be frozen.",
+                "Will not get soggy."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 6,
+            "difficulty": "easy"
+        },
+        "No Named Recipe": {
+            "title": "No Named Recipe",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "crackers",
+                "butter",
+                "nuts"
+            ],
+            "instructions": [
+                "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+                "Cookie sheet must have sides.",
+                "Put butter and sugar in pan and cook 1 1/2 minutes.",
+                "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+                "When cool, break apart. Can be frozen.",
+                "Will not get soggy."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 6,
+            "difficulty": "easy"
+        }
+    },
+    "recipes_3_easy_vanilla": {
+        "Praline Grahams": {
+            "title": "Praline Grahams",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "crackers",
+                "butter",
+                "nuts"
+            ],
+            "instructions": [
+                "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+                "Cookie sheet must have sides.",
+                "Put butter and sugar in pan and cook 1 1/2 minutes.",
+                "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+                "When cool, break apart. Can be frozen.",
+                "Will not get soggy."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 6,
+            "difficulty": "easy"
+        }
+    },
+    "recipes_3_easy_pumpkin": {},
+    "recipes_3_medium_none": {},
+    "recipes_10_hard_none": {
+        "Nan Marshall'S Baked Chicken": {
+            "title": "Nan Marshall'S Baked Chicken",
+            "ingredients": [
+                "chicken",
+                "all-purpose",
+                "pepper",
+                "shortening",
+                "salt"
+            ],
+            "instructions": [
+                "Preheat oven",
+                "to",
+                "425\u00b0.",
+                "Heat",
+                "shortening",
+                "in",
+                "9",
+                "x 9 x 2-inch or 12 x 8 x 2-inch baking pan.",
+                "Mix all dry ingredients in bag. Add 2 or 3 pieces of chicken and shake until coated."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 9,
+            "difficulty": "hard"
+        },
+        "Mom'S Special Party Cheese Balls": {
+            "title": "Mom'S Special Party Cheese Balls",
+            "ingredients": [
+                "mayonnaise",
+                "worcestershire sauce",
+                "cream cheese",
+                "cheddar cheese",
+                "onion",
+                "parsley flakes",
+                "pecans"
+            ],
+            "instructions": [
+                "Cut cheese in small pieces or grate and allow to come to room temperature.",
+                "In mixing bowl, beat cheese and mayonnaise until smooth and creamy.",
+                "Add onion, Worcestershire sauce, paprika and parsley.",
+                "Continue to beat until thoroughly blended.",
+                "Shape into 2 balls.",
+                "Roll in nuts.",
+                "May garnish with olives, cherries or parsley.",
+                "Freezes well."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 8,
+            "difficulty": "hard"
+        },
+        "Egg Custard Pie": {
+            "title": "Egg Custard Pie",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "eggs",
+                "butter",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Combine milk and sugar.",
+                "Heat to boiling point.",
+                "Mix butter, eggs, salt and vanilla.",
+                "Add to milk and sugar.",
+                "Place in unbaked pie shell.",
+                "Bake at 350\u00b0 for 45 minutes.",
+                "Makes 2 pies."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 7,
+            "difficulty": "hard"
+        },
+        "Pasta With Tomato Vodka Sauce": {
+            "title": "Pasta With Tomato Vodka Sauce",
+            "ingredients": [
+                "parsley",
+                "olive oil",
+                "red pepper",
+                "pasta",
+                "vodka",
+                "onion",
+                "clove garlic",
+                "heavy cream",
+                "salt",
+                "tomatoes"
+            ],
+            "instructions": [
+                "Heat oil in a large skillet. Add onion; saute until tender (not brown), 5 minutes.",
+                "Stir in garlic.",
+                "Add tomatoes, vodka and red pepper; break up tomatoes with side of spoon.",
+                "Cook until sauce is reduced by 1/3 and thickened, 15 minutes.",
+                "Stir in cream; simmer, stirring (do not allow to boil) 5 minutes. Season with salt."
+            ],
+            "num_ingredients": 10,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        "Corn Pudding": {
+            "title": "Corn Pudding",
+            "ingredients": [
+                "corn",
+                "sugar",
+                "lots of butter",
+                "eggs",
+                "pepper",
+                "flour",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Mix all ingredients together.",
+                "Place in buttered casserole. Bake at 300\u00b0 for 1 hour."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 2,
+            "difficulty": "hard"
+        },
+        "Green Snap Beans": {
+            "title": "Green Snap Beans",
+            "ingredients": [
+                "salt",
+                "sugar",
+                "fresh green beans",
+                "bacon"
+            ],
+            "instructions": [
+                "Clean and snap green beans.",
+                "Put bacon drippings in a large pot; add the snap beans and about 2 cups water.",
+                "Cook at medium temperature.",
+                "Add water as needed.",
+                "Just before they are done, add the salt and sugar.",
+                "Serve with fresh onions and cornbread. Yield:",
+                "6 servings."
+            ],
+            "num_ingredients": 4,
+            "num_instructions": 7,
+            "difficulty": "hard"
+        },
+        "Rye Rounds": {
+            "title": "Rye Rounds",
+            "ingredients": [
+                "mayonnaise",
+                "horseradish",
+                "worcestershire sauce",
+                "party rye bread",
+                "onion rings",
+                "parmesan cheese",
+                "tabasco sauce"
+            ],
+            "instructions": [
+                "Mix first 5 ingredients.",
+                "Spread on party rye bread.",
+                "Top with 1 slice onion.",
+                "Bake at 350\u00b0 for 15 minutes.",
+                "Makes approximately 16 rounds."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        "Bean Bake": {
+            "title": "Bean Bake",
+            "ingredients": [
+                "ketchup",
+                "green pepper",
+                "kidney beans",
+                "onion",
+                "beans",
+                "ground beef",
+                "pork"
+            ],
+            "instructions": [
+                "Brown ground beef; drain.",
+                "Add chopped onion and pepper.",
+                "Add all cans of vegetables drained.",
+                "Add ketchup.",
+                "Bake in oven 30 minutes or slow cook in crock-pot until done."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        "K'S Brownies": {
+            "title": "K'S Brownies",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "eggs",
+                "flour",
+                "cocoa",
+                "margarine"
+            ],
+            "instructions": [
+                "Mix cocoa and sugar.",
+                "Add flour, melted margarine, eggs and vanilla.",
+                "Bake at 375\u00b0 for 35 minutes.",
+                "Add nuts, if desired."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 4,
+            "difficulty": "hard"
+        }
+    },
+    "recipes_100_hard_eggs_flour": {
+        "Cream Cheese Pound Cake": {
+            "title": "Cream Cheese Pound Cake",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "cream cheese",
+                "eggs",
+                "butter",
+                "flour"
+            ],
+            "instructions": [
+                "Cream butter and cream cheese together until well blended. Add sugar and cream well.",
+                "Add egg and flour alternately, mixing well after each addition.",
+                "Add vanilla.",
+                "Bake at 325\u00b0 for 1 1/2 hours in greased and floured tube pan."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 4,
+            "difficulty": "hard"
+        },
+        "Sugar-Free Doughnuts": {
+            "title": "Sugar-Free Doughnuts",
+            "ingredients": [
+                "eggs",
+                "flour",
+                "potatoes",
+                "shortening",
+                "oil",
+                "yeast",
+                "water",
+                "margarine"
+            ],
+            "instructions": [
+                "Cream shortening and margarine in bowl.",
+                "Add mashed potatoes, potato water, sweetener and egg; beat well.",
+                "Sprinkle with yeast. Stir in gently.",
+                "Let stand",
+                "for 1 1/2 hours in warm place.",
+                "Stir in flour gradually.",
+                "Knead on floured surface until smooth.",
+                "Let rise, covered, in warm place 5 to 6 hours or doubled in bulk. Roll out on floured surface 1/2-inch thick.",
+                "Cut to desired size. Place on floured towel.",
+                "Let rise in warm place 1 1/2 to 2 inches or until doubled in bulk.",
+                "Deep fry in 375\u00b0",
+                "oil until light brown.",
+                "Drain on paper towels.",
+                "Yields 50 doughnuts."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 14,
+            "difficulty": "hard"
+        },
+        "Zucchini Bread": {
+            "title": "Zucchini Bread",
+            "ingredients": [
+                "vanilla",
+                "raisins",
+                "zucchini",
+                "sugar",
+                "soda",
+                "cinnamon",
+                "eggs",
+                "baking powder",
+                "flour",
+                "oil",
+                "salt",
+                "nuts"
+            ],
+            "instructions": [
+                "Combine oil, eggs, sugar and zucchini.",
+                "Add vanilla and blend well.",
+                "Mix dry ingredients together.",
+                "Stir dry ingredients into egg mixture, a small amount at a time.",
+                "Stir in nuts and raisins. Do not beat.",
+                "Bake at 325\u00b0 for 1 hour in small loaf pans or 1 1/2 hours in large cake pan."
+            ],
+            "num_ingredients": 12,
+            "num_instructions": 6,
+            "difficulty": "hard"
+        },
+        "Cherry Squares": {
+            "title": "Cherry Squares",
+            "ingredients": [
+                "cherry pie filling",
+                "lemon",
+                "vanilla",
+                "sugar",
+                "eggs",
+                "butter",
+                "flour"
+            ],
+            "instructions": [
+                "Cream butter and sugar until very light.",
+                "Add flour, eggs and flavoring.",
+                "Beat until light again.",
+                "Spread in greased 15 1/2 x 10 1/2-inch pan.",
+                "Cut batter into 28 squares.",
+                "Spoon pie filling into center of each square.",
+                "Bake at 350\u00b0 for 30 to 35 minutes.",
+                "Cool. Cut into squares and sprinkle with powdered sugar."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 8,
+            "difficulty": "hard"
+        },
+        "Pasta Frola (Guava Torte)": {
+            "title": "Pasta Frola (Guava Torte)",
+            "ingredients": [
+                "sugar",
+                "eggs",
+                "baking powder",
+                "flour",
+                "guava jelly",
+                "margarine"
+            ],
+            "instructions": [
+                "Sift together the dry ingredients.",
+                "Add the margarine to the dry ingredients with a pastry blender.",
+                "Add the eggs and the milk. Roll out 3/4 of the dough into a circle.",
+                "Save the other part for the top."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 4,
+            "difficulty": "hard"
+        },
+        "Chocolate Pound Cake": {
+            "title": "Chocolate Pound Cake",
+            "ingredients": [
+                "vanilla",
+                "oleo",
+                "sugar",
+                "shortening",
+                "eggs",
+                "baking powder",
+                "flour",
+                "cocoa",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Cream oleo and shortening with sugar.",
+                "Add eggs one at a time and blend well after each.",
+                "Sift dry ingredients together and add alternately with milk.",
+                "Add vanilla.",
+                "Pour batter into greased and floured tube pan.",
+                "Bake at 350\u00b0 for 1 hour and 25 minutes."
+            ],
+            "num_ingredients": 10,
+            "num_instructions": 6,
+            "difficulty": "hard"
+        },
+        "Our Favorite Pound Cake": {
+            "title": "Our Favorite Pound Cake",
+            "ingredients": [
+                "vanilla",
+                "mace",
+                "eggs",
+                "butter",
+                "flour",
+                "almond extract",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Blend sugar, salt and mace in large mixing bowl. Cream the sugar mixture and butter until light and fluffy.",
+                "Add extracts. Beat eggs into mixture, one at a time, beating well after each addition.",
+                "Add parts of flour and milk to creamed mixture alternately, blending well after each addition.",
+                "When smooth, turn batter into greased and floured 10-inch tube pan.",
+                "Bake in a moderate oven at 350\u00b0 for 1 hour and 15 minutes or until cake tester comes out clean and cake is golden brown.",
+                "Allow cake to cool 5 minutes in pan. Turn out on cooling rack.",
+                "Cool thoroughly."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 7,
+            "difficulty": "hard"
+        },
+        "Lemon Squares": {
+            "title": "Lemon Squares",
+            "ingredients": [
+                "powdered sugar",
+                "sugar",
+                "eggs",
+                "flour",
+                "realemon juice",
+                "salt",
+                "margarine"
+            ],
+            "instructions": [
+                "Mix margarine, powdered sugar and 1 cup flour together and pat in bottom of 9 x 13-inch pan.",
+                "Bake at 350\u00b0 for 15 minutes.",
+                "While baking, mix rest of ingredients together on low speed.",
+                "Pour on hot crust and continue baking for 20 minutes.",
+                "Dust with powdered sugar while warm.",
+                "Cut when cool."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 6,
+            "difficulty": "hard"
+        }
+    },
+    "recipes_100_hard_eggs_flour_milk_salt_love": {}
+}

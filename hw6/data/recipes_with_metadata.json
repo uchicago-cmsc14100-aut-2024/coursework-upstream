@@ -1,0 +1,411 @@
+{
+    "recipes_1": [
+        {
+            "title": "Praline Grahams",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "crackers",
+                "butter",
+                "nuts"
+            ],
+            "instructions": [
+                "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+                "Cookie sheet must have sides.",
+                "Put butter and sugar in pan and cook 1 1/2 minutes.",
+                "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+                "When cool, break apart. Can be frozen.",
+                "Will not get soggy."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 6,
+            "difficulty": "easy"
+        }
+    ],
+    "recipes_3": [
+        {
+            "title": "Praline Grahams",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "crackers",
+                "butter",
+                "nuts"
+            ],
+            "instructions": [
+                "Arrange crackers side by side as close as you can on cookie sheet covered with foil.",
+                "Cookie sheet must have sides.",
+                "Put butter and sugar in pan and cook 1 1/2 minutes.",
+                "When it comes to a boil, take off heat and add nuts and vanilla, then spread evenly over crackers. Bake 10 minutes at 350\u00b0.",
+                "When cool, break apart. Can be frozen.",
+                "Will not get soggy."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 6,
+            "difficulty": "easy"
+        },
+        {
+            "title": "Vegetable Pizza",
+            "ingredients": [
+                "vegetables",
+                "shredded cheese",
+                "cream cheese",
+                "sour cream",
+                "crescent rolls",
+                "salad dressing",
+                "garlic salt"
+            ],
+            "instructions": [
+                "Unroll crescent dough.",
+                "Do not separate.",
+                "Press seams together to fill the bottom of a 15 x 10-inch pan.",
+                "Bake at 375\u00b0 for 10 to 12 minutes.",
+                "Cool."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Pumpkin Bread",
+            "ingredients": [
+                "pumpkin",
+                "cold water",
+                "sugar",
+                "cinnamon",
+                "salad oil",
+                "eggs",
+                "baking soda",
+                "baking powder",
+                "flour",
+                "salt",
+                "nuts"
+            ],
+            "instructions": [
+                "Combine all ingredients in bowl and mix.",
+                "Bake 1 1/2 hours at 325\u00b0.",
+                "Makes 1 large loaf or 2 medium loaves."
+            ],
+            "num_ingredients": 11,
+            "num_instructions": 3,
+            "difficulty": "hard"
+        }
+    ],
+    "recipes_5": [
+        {
+            "title": "Swiss Chicken",
+            "ingredients": [
+                "swiss cheese",
+                "chicken breasts",
+                "butter",
+                "cream of chicken soup"
+            ],
+            "instructions": [
+                "Place ingredients in order listed in a casserole dish and bake 50 minutes at 350\u00b0."
+            ],
+            "num_ingredients": 4,
+            "num_instructions": 1,
+            "difficulty": "easy"
+        },
+        {
+            "title": "Beef Stew",
+            "ingredients": [
+                "onions",
+                "sugar",
+                "tapioca",
+                "celery",
+                "potatoes",
+                "salt",
+                "carrots",
+                "stew meat"
+            ],
+            "instructions": [
+                "Mix all ingredients in large casserole dish.",
+                "Cover.",
+                "Bake at 250\u00b0 for 5 to 6 hours.",
+                "Serve with cornbread."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 4,
+            "difficulty": "hard"
+        },
+        {
+            "title": "El'S Cole Slaw",
+            "ingredients": [
+                "mayonnaise",
+                "sugar",
+                "paprika",
+                "peppers",
+                "cabbage",
+                "salt",
+                "vinegar",
+                "carrots"
+            ],
+            "instructions": [
+                "Shred cabbage, carrots and peppers.",
+                "(Can use large package of shredded cole slaw, but add peppers to it.) Salt to taste."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 2,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Coconut Pie",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "eggs",
+                "coconuts",
+                "butter",
+                "milk"
+            ],
+            "instructions": [
+                "Beat eggs, sugar and flour together well.",
+                "Add milk and pour over eggs, sugar and butter.",
+                "Add coconut, add vanilla.",
+                "Cook at 300\u00b0 for 1 hour or until brown.",
+                "Makes 2 pies."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Fried Tomatoes",
+            "ingredients": [
+                "eggs",
+                "bread crumbs",
+                "tomatoes",
+                "hot fat"
+            ],
+            "instructions": [
+                "Slice tomatoes 3/4-inch thick.",
+                "Dip into beaten eggs and then into fine bread crumbs.",
+                "Fry in hot fat (half oleo and half cooking oil) until brown on both sides."
+            ],
+            "num_ingredients": 4,
+            "num_instructions": 3,
+            "difficulty": "easy"
+        }
+    ],
+    "recipes_10": [
+        {
+            "title": "Nan Marshall'S Baked Chicken",
+            "ingredients": [
+                "chicken",
+                "all-purpose",
+                "pepper",
+                "shortening",
+                "salt"
+            ],
+            "instructions": [
+                "Preheat oven",
+                "to",
+                "425\u00b0.",
+                "Heat",
+                "shortening",
+                "in",
+                "9",
+                "x 9 x 2-inch or 12 x 8 x 2-inch baking pan.",
+                "Mix all dry ingredients in bag. Add 2 or 3 pieces of chicken and shake until coated."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 9,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Mom'S Special Party Cheese Balls",
+            "ingredients": [
+                "mayonnaise",
+                "worcestershire sauce",
+                "cream cheese",
+                "cheddar cheese",
+                "onion",
+                "parsley flakes",
+                "pecans"
+            ],
+            "instructions": [
+                "Cut cheese in small pieces or grate and allow to come to room temperature.",
+                "In mixing bowl, beat cheese and mayonnaise until smooth and creamy.",
+                "Add onion, Worcestershire sauce, paprika and parsley.",
+                "Continue to beat until thoroughly blended.",
+                "Shape into 2 balls.",
+                "Roll in nuts.",
+                "May garnish with olives, cherries or parsley.",
+                "Freezes well."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 8,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Egg Custard Pie",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "eggs",
+                "butter",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Combine milk and sugar.",
+                "Heat to boiling point.",
+                "Mix butter, eggs, salt and vanilla.",
+                "Add to milk and sugar.",
+                "Place in unbaked pie shell.",
+                "Bake at 350\u00b0 for 45 minutes.",
+                "Makes 2 pies."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 7,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Pasta With Tomato Vodka Sauce",
+            "ingredients": [
+                "parsley",
+                "olive oil",
+                "red pepper",
+                "pasta",
+                "vodka",
+                "onion",
+                "clove garlic",
+                "heavy cream",
+                "salt",
+                "tomatoes"
+            ],
+            "instructions": [
+                "Heat oil in a large skillet. Add onion; saute until tender (not brown), 5 minutes.",
+                "Stir in garlic.",
+                "Add tomatoes, vodka and red pepper; break up tomatoes with side of spoon.",
+                "Cook until sauce is reduced by 1/3 and thickened, 15 minutes.",
+                "Stir in cream; simmer, stirring (do not allow to boil) 5 minutes. Season with salt."
+            ],
+            "num_ingredients": 10,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Chinese Barbecued Spareribs",
+            "ingredients": [
+                "soy sauce",
+                "sugar",
+                "spareribs",
+                "clove garlic",
+                "salt"
+            ],
+            "instructions": [
+                "Place ribs on baking sheet. With sharp knife, cut meat between bones. Crush garlic and blend with other ingredients. Spoon sauce on both sides and into cuts. Bake in 400\u00b0 oven for 20 minutes on each side. Serves 4."
+            ],
+            "num_ingredients": 5,
+            "num_instructions": 1,
+            "difficulty": "easy"
+        },
+        {
+            "title": "Corn Pudding",
+            "ingredients": [
+                "corn",
+                "sugar",
+                "lots of butter",
+                "eggs",
+                "pepper",
+                "flour",
+                "milk",
+                "salt"
+            ],
+            "instructions": [
+                "Mix all ingredients together.",
+                "Place in buttered casserole. Bake at 300\u00b0 for 1 hour."
+            ],
+            "num_ingredients": 8,
+            "num_instructions": 2,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Green Snap Beans",
+            "ingredients": [
+                "salt",
+                "sugar",
+                "fresh green beans",
+                "bacon"
+            ],
+            "instructions": [
+                "Clean and snap green beans.",
+                "Put bacon drippings in a large pot; add the snap beans and about 2 cups water.",
+                "Cook at medium temperature.",
+                "Add water as needed.",
+                "Just before they are done, add the salt and sugar.",
+                "Serve with fresh onions and cornbread. Yield:",
+                "6 servings."
+            ],
+            "num_ingredients": 4,
+            "num_instructions": 7,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Rye Rounds",
+            "ingredients": [
+                "mayonnaise",
+                "horseradish",
+                "worcestershire sauce",
+                "party rye bread",
+                "onion rings",
+                "parmesan cheese",
+                "tabasco sauce"
+            ],
+            "instructions": [
+                "Mix first 5 ingredients.",
+                "Spread on party rye bread.",
+                "Top with 1 slice onion.",
+                "Bake at 350\u00b0 for 15 minutes.",
+                "Makes approximately 16 rounds."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        {
+            "title": "Bean Bake",
+            "ingredients": [
+                "ketchup",
+                "green pepper",
+                "kidney beans",
+                "onion",
+                "beans",
+                "ground beef",
+                "pork"
+            ],
+            "instructions": [
+                "Brown ground beef; drain.",
+                "Add chopped onion and pepper.",
+                "Add all cans of vegetables drained.",
+                "Add ketchup.",
+                "Bake in oven 30 minutes or slow cook in crock-pot until done."
+            ],
+            "num_ingredients": 7,
+            "num_instructions": 5,
+            "difficulty": "hard"
+        },
+        {
+            "title": "K'S Brownies",
+            "ingredients": [
+                "vanilla",
+                "sugar",
+                "eggs",
+                "flour",
+                "cocoa",
+                "margarine"
+            ],
+            "instructions": [
+                "Mix cocoa and sugar.",
+                "Add flour, melted margarine, eggs and vanilla.",
+                "Bake at 375\u00b0 for 35 minutes.",
+                "Add nuts, if desired."
+            ],
+            "num_ingredients": 6,
+            "num_instructions": 4,
+            "difficulty": "hard"
+        }
+    ]
+}
