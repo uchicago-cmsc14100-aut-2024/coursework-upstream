@@ -134,7 +134,7 @@ if not args.csv and not args.gradescope:
     print("-" * 100)
     print("%81s = %-6.2f / %-10i" % ("TOTAL", pscore, sum(total_points.values())))
     overall = pscore/sum(total_points.values()) * 100.0
-    snu = "Ungradable"
+    snu = "Unsatisfactory"
     for _, name, value in thresholds:
         if overall >= float(value):
             snu = name[1:-1]
