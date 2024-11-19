@@ -1,0 +1,27 @@
+{
+  "type": "Directory",
+  "name": "cmsc",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "cs300",
+      "contents": []
+    },
+    {
+      "type": "Directory",
+      "name": "cs253",
+      "contents": [
+        {
+          "type": "File",
+          "name": "page_rank.py",
+          "text": "simulate_surfer()"
+        },
+        {
+          "type": "Directory",
+          "name": "Project",
+          "contents": []
+        }
+      ]
+    }
+  ]
+}

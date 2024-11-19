@@ -1,0 +1,83 @@
+{
+  "type": "Directory",
+  "name": "cs141",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "hw5",
+      "contents": [
+        {
+          "type": "Directory",
+          "name": "images",
+          "contents": [
+            {
+              "type": "File",
+              "name": "img1.ppm",
+              "text": "P3 6 5"
+            },
+            {
+              "type": "File",
+              "name": "img2.ppm",
+              "text": "P3 4 4"
+            }
+          ]
+        },
+        {
+          "type": "File",
+          "name": "hw5.py",
+          "text": "def make_image_gray():"
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "hw8",
+      "contents": [
+        {
+          "type": "File",
+          "name": "hw8.py",
+          "text": "def first_down():"
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "notes",
+      "contents": [
+        {
+          "type": "Directory",
+          "name": "exams",
+          "contents": [
+            {
+              "type": "Directory",
+              "name": "midterm",
+              "contents": [
+                {
+                  "type": "File",
+                  "name": "notes.txt",
+                  "text": "To study: conditionals, loops, ..."
+                }
+              ]
+            },
+            {
+              "type": "Directory",
+              "name": "final",
+              "contents": [
+                {
+                  "type": "File",
+                  "name": "code.py",
+                  "text": "def fibonacci()"
+                },
+                {
+                  "type": "File",
+                  "name": "notes.docx",
+                  "text": "To study: classes, recursion, ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

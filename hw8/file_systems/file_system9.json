@@ -1,0 +1,65 @@
+{
+  "type": "Directory",
+  "name": "cmsc",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "cs141",
+      "contents": [
+        {
+          "type": "File",
+          "name": "hw1.py",
+          "text": "print(5 + 2)"
+        },
+        {
+          "type": "File",
+          "name": "notes.txt",
+          "text": "Python is fun!"
+        },
+        {
+          "type": "File",
+          "name": "hw5.py",
+          "text": "Color(0, 0, 255)"
+        },
+        {
+          "type": "Directory",
+          "name": "midterm",
+          "contents": [
+            {
+              "type": "File",
+              "name": "Practice.txt",
+              "text": "types, logic operators, ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "cs253",
+      "contents": [
+        {
+          "type": "File",
+          "name": "page_rank.py",
+          "text": "simulate_surfer()"
+        },
+        {
+          "type": "Directory",
+          "name": "Project",
+          "contents": [
+            {
+              "type": "File",
+              "name": "ML.py",
+              "text": "def learn_model():"
+            },
+            {
+              "type": "File",
+              "name": "ML.pdf",
+              "text": "What I learned was..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

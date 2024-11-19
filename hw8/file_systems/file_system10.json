@@ -1,0 +1,65 @@
+{
+  "type": "Directory",
+  "name": "cmsc",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "cs141",
+      "contents": [
+        {
+          "type": "File",
+          "name": "hw1.py",
+          "text": "print(5 + 2)"
+        },
+        {
+          "type": "File",
+          "name": "notes.txt",
+          "text": "Python is fun!"
+        },
+        {
+          "type": "File",
+          "name": "colo.ppm",
+          "text": "P3"
+        },
+        {
+          "type": "Directory",
+          "name": "midterm",
+          "contents": [
+            {
+              "type": "File",
+              "name": "Practice.docx",
+              "text": "types, logic operators,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "cs253",
+      "contents": [
+        {
+          "type": "File",
+          "name": "data.json",
+          "text": "{'age': 40',"
+        },
+        {
+          "type": "Directory",
+          "name": "Project",
+          "contents": [
+            {
+              "type": "File",
+              "name": "ML.c",
+              "text": "void learn_model():"
+            },
+            {
+              "type": "File",
+              "name": "ML.pdf",
+              "text": "What I learned was"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

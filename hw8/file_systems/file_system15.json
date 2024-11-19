@@ -1,0 +1,33 @@
+{
+  "type": "Directory",
+  "name": "cmsc",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "cs141",
+      "contents": [
+        {
+          "type": "File",
+          "name": "hw1.py",
+          "text": "print(5 + 2)"
+        },
+        {
+          "type": "File",
+          "name": "notes.txt",
+          "text": "Python is fun!"
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "cs253",
+      "contents": [
+        {
+          "type": "Directory",
+          "name": "notes",
+          "contents": []
+        }
+      ]
+    }
+  ]
+}

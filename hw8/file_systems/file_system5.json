@@ -1,0 +1,49 @@
+{
+  "type": "Directory",
+  "name": "cmsc",
+  "contents": [
+    {
+      "type": "Directory",
+      "name": "cs141",
+      "contents": [
+        {
+          "type": "File",
+          "name": "hw1.c",
+          "text": "printf(5 + 2)"
+        },
+        {
+          "type": "File",
+          "name": "notes.txt",
+          "text": "Python is fun!"
+        }
+      ]
+    },
+    {
+      "type": "Directory",
+      "name": "cs253",
+      "contents": [
+        {
+          "type": "File",
+          "name": "page_rank.c",
+          "text": "simulate_surfer()"
+        },
+        {
+          "type": "Directory",
+          "name": "Project",
+          "contents": [
+            {
+              "type": "File",
+              "name": "ML.c",
+              "text": "void learn_model():"
+            },
+            {
+              "type": "File",
+              "name": "ML.pdf",
+              "text": "What I learned was..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
